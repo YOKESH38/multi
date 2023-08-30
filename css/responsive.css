@@ -57,6 +57,19 @@
 .mb{
 	flex:none;
 }
+.nav_item{
+	padding-left:67px;
+}
+.email {
+    width: 330px;
+    height: 219px;
+    background-color: white;
+    padding-left: 0;
+    padding: 30px 0;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0 0 30px #0000001c;
+}
 }
 
 
@@ -119,8 +132,25 @@
 }
 .end{
 	display:flex;
-	justify-content:right;
-	
+	justify-content:center;
+	padding-left:60px;
+}
+.bann a{
+	justify-content:center;
+	margin-right:80px;
+}
+.nav_item{
+	padding-left:232px;
+}
+.email {
+    width: 335px;
+    height: 219px;
+    background-color: white;
+    padding-left: 0;
+    padding: 30px 0;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0 0 30px #0000001c;
 }
 }
 @media (min-width:1000px){
